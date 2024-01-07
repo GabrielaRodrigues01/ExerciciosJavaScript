@@ -19,6 +19,13 @@ valor especial que significa Not-A-Number (não é um número).
 6- declaração de variável utilizando let
 armazenando um valor dentro da variável. 
 
+7- solicitar idade e nome de um usuário através do prompt e imprimir valores no console.
+
+8- exibir uma mensagem de alerta na tela do usuário. 
+
+
+
+
 
 
 
