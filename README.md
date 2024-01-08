@@ -23,6 +23,8 @@ armazenando um valor dentro da variável.
 
 8- exibir uma mensagem de alerta na tela do usuário. 
 
+9 - utilização da função math.mx para verificar maior número. 
+
 
 
 
