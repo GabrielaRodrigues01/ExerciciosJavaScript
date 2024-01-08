@@ -23,7 +23,9 @@ armazenando um valor dentro da variável.
 
 8- exibir uma mensagem de alerta na tela do usuário. 
 
-9 - utilização da função math.mx para verificar maior número. 
+9 - utilização da função math.mx para verificar o maior número, o menor número, e arredondar um valor que está com casa decimal e também arredendor um valor para cima independente da primeira casa.
+
+10 - utilizando console.log para exibir valores de variáveis no console. 
 
 
 
