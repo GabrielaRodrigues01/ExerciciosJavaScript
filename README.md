@@ -31,7 +31,15 @@ armazenando um valor dentro da variável.
 
 12- utilizando a estrutura condicional else. 
 
-13- utilizando estruturas condicionais utilizando else if. 
+13- utilizando a estrutura condicional else if. 
+
+14- utilizando a estrutura de repetição while. 
+
+15- utilizando a estrutura de repetição do while. 
+
+16- utilizando a estrutura de repetição for. 
+
+
 
 
 
