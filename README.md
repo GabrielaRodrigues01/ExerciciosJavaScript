@@ -39,6 +39,8 @@ armazenando um valor dentro da variável.
 
 16- utilizando a estrutura de repetição for. 
 
+17 - parando um loop antes que ele complete todo seu ciclo utilizando break. 
+
 
 
 
