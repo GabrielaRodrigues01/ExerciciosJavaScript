@@ -13,3 +13,9 @@ let nome = "Gabriela";
 if (nome == "Gabriela" && idade > 10){
     console.log("Liberado!")
 }
+
+passaporte = true;
+
+if ((nome == "Gabriela" && idade > 10) || passaporte == true){
+    console.log("Liberado 2!")
+}
