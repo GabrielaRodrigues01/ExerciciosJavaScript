@@ -39,7 +39,12 @@ armazenando um valor dentro da variável.
 
 16- utilizando a estrutura de repetição for. 
 
-17 - parando um loop antes que ele complete todo seu ciclo utilizando break. 
+17- parando um loop antes que ele complete todo seu ciclo utilizando break. 
+
+18-  pulando uma execução do loop utilizando o continue. 
+
+19- incrementando uma variável. 
+
 
 
 
