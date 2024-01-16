@@ -1,5 +1,5 @@
 const nome = "Gabriela";
 
 if(nome == "Gabriela");{
-    console.log("Olá, seja bem-vinda" + nome);
+    console.log(`Olá, ${nome} seja bem-vinda`);
 }
