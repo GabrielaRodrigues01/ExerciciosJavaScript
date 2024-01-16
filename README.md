@@ -41,7 +41,7 @@ armazenando um valor dentro da variável.
 
 17- parando um loop antes que ele complete todo seu ciclo utilizando break. 
 
-18-  pulando uma execução do loop utilizando o continue. 
+18- pulando uma execução do loop utilizando o continue. 
 
 19- incrementando uma variável. 
 
@@ -49,6 +49,10 @@ armazenando um valor dentro da variável.
 
 21- armazenando valores em variáveis com cada um dos tipos de dados: 
 string, number e boolean; 
+
+22- utilizando uma estrutura if para verificar a entrada em uma balada se a idade for igual ou maior que 18. 
+
+23- criando uma constante e realizando a verificação do valor dela utilizando a estrutura condicional if. 
 
 
 
