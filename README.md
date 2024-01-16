@@ -47,6 +47,10 @@ armazenando um valor dentro da variável.
 
 20- utilizando a estrutura condicional switch. 
 
+21- armazenando valores em variáveis com cada um dos tipos de dados: 
+string, number e boolean; 
+
+
 
 
 
