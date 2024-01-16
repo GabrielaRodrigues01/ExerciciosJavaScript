@@ -45,6 +45,8 @@ armazenando um valor dentro da variável.
 
 19- incrementando uma variável. 
 
+20- utilizando a estrutura condicional switch. 
+
 
 
 
