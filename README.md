@@ -54,7 +54,9 @@ string, number e boolean;
 
 23- criando uma constante e realizando a verificação do valor dela utilizando a estrutura condicional if. 
 
-24- armazenando a velocidade de um carro em uma variável, e realizar uma verificação utilizando if/else se ele está acima da velocidade. 80 é a velocidade máxima permitida, se estiver acima ou abaixo, exibir uma mensagem em console.log();
+24- armazenando a velocidade de um carro em uma variável, e realizando uma verificação utilizando if/else se ele está acima da velocidade. 80 é a velocidade máxima permitida, se estiver acima ou abaixo, exibir uma mensagem em console.log();
+
+25- armazenando em variáveis informações sobre um usuário e realizando uma verificação utilizando if/else, se ele é maior de 18 anos e possui CNH apresentar uma mensagem utilizando console.log(); se pode ou não dirigir dependendo do resultado da validação. 
 
 
 
