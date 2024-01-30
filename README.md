@@ -58,6 +58,10 @@ string, number e boolean;
 
 25- armazenando em variáveis informações sobre um usuário e realizando uma verificação utilizando if/else, se ele é maior de 18 anos e possui CNH apresentar uma mensagem utilizando console.log(); se pode ou não dirigir dependendo do resultado da validação. 
 
+26- escrevendo um loop em while.
+
+27- escrevendo um loop utilizando for.
+
 
 
 
