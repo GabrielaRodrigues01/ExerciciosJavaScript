@@ -60,7 +60,9 @@ string, number e boolean;
 
 26- escrevendo um loop em while.
 
-27- escrevendo um loop utilizando for.
+27- escrevendo um loop utilizando for para decrementar uma variável. 
+
+28- verificando qual número é par e qual é ímpar utilizando for, o contador deve iniciar em 0 e it até 50. 
 
 
 
