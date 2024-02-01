@@ -64,6 +64,13 @@ string, number e boolean;
 
 28- verificando qual número é par e qual é ímpar utilizando for, o contador deve iniciar em 0 e it até 50. 
 
+29- verificando se um número é primo. 
+
+30- utilizando uma estrutura de loop for para percorrer um array e verificar os números que são ímpares e atribuindo eles em um outro array. 
+
+31- Criando uma função que recebe um número inteiro como argumento e retorna uma string de acordo a cada regra verificada. 
+
+
 
 
 
