@@ -72,6 +72,8 @@ string, number e boolean;
 
 32- definindo uma função. 
 
+33- definindo uma função para verificar se um usuário pode dirigir de acordo com a sua idade e se possui cnh. 
+
 
 
 
