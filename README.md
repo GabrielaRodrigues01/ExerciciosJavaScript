@@ -68,7 +68,9 @@ string, number e boolean;
 
 30- utilizando uma estrutura de loop for para percorrer um array e verificar os números que são ímpares e atribuindo eles em um outro array. 
 
-31- Criando uma função que recebe um número inteiro como argumento e retorna uma string de acordo a cada regra verificada. 
+31- criando uma função que recebe um número inteiro como argumento e retorna uma string de acordo a cada regra verificada. 
+
+32- definindo uma função. 
 
 
 
