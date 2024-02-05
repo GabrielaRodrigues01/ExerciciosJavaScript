@@ -50,7 +50,7 @@ armazenando um valor dentro da variável.
 21- armazenando valores em variáveis com cada um dos tipos de dados: 
 string, number e boolean; 
 
-22- utilizando uma estrutura if para verificar a entrada em uma balada se a idade for igual ou maior que 18. 
+22- utilizando uma estrutura if para verificar a entrada em uma balada se a idade for igual ou maior que 18 permitir entrada do usuário. 
 
 23- criando uma constante e realizando a verificação do valor dela utilizando a estrutura condicional if. 
 
@@ -62,17 +62,19 @@ string, number e boolean;
 
 27- escrevendo um loop utilizando for para decrementar uma variável. 
 
-28- verificando qual número é par e qual é ímpar utilizando for, o contador deve iniciar em 0 e it até 50. 
+28- verificando qual número é par e qual é ímpar utilizando for, o contador deve iniciar em 0 e ir até 50. 
 
-29- verificando se um número é primo. 
+29- verificando se um número é primo utilizando o laço de repetição for. 
 
-30- utilizando uma estrutura de loop for para percorrer um array e verificar os números que são ímpares e atribuindo eles em um outro array. 
+30- utilizando o laço de repetição for para percorrer um array e verificar os números que são ímpares e atribuindo eles em um outro array. 
 
 31- criando uma função que recebe um número inteiro como argumento e retorna uma string de acordo a cada regra verificada. 
 
 32- definindo uma função. 
 
 33- definindo uma função para verificar se um usuário pode dirigir de acordo com a sua idade e se possui cnh. 
+
+34- utilizando recursão para retornar um número par. 
 
 
 
