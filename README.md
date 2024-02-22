@@ -76,6 +76,13 @@ string, number e boolean;
 
 34- utilizando recursão para retornar um número par. 
 
+35- escrevendo uma função que imprime ''hello world'' no console. 
+
+36- escrevendo uma função que recebe um parâmetro de idade e imprima uma mensagem no console utilizando template literals. 
+
+37- utilizando uma função para solicitar a idade do usuário e imprimindo com uma mensagem no console. 
+
+38- utilizando uma função para somar dois números e imprimir seu retorno no console. 
 
 
 
