@@ -94,6 +94,11 @@ String, number e boolean;
 
 43- Utilizando uma função que recebe uma string e se o texto conter mais de 10 caracteres através do console vai imprimir uma mensagem informando que o texto está muito longo, caso o contrário vai informar que o texto está dentro do limite.  
 
+44- Utilizando uma função que recebe dois números, o primeiro é a base e o segundo a potência;
+depois que realiza essa operação, retorna o resultado;
+por exemplo: 3,2 = 9. 
+
+
 
 
 
