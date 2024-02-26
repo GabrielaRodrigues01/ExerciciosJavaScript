@@ -1,4 +1,5 @@
 function tornarPositivo (numNegativo){
+    
     return Math.abs(numNegativo);
 }
 
