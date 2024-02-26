@@ -90,6 +90,9 @@ String, number e boolean;
 
 41- Utilizando uma função para detectar o tipo de dado passado, se é: number, boolean ou string. De acordo com ol retorno mostrar uma mensagem para cada tipo, a função é executada para verificar cada caso. 
 
+42- Utilizando uma função que recebe um número negativo e retorna um número positivo, utilizando a função Math.abs.
+
+
 
 
 
