@@ -98,6 +98,10 @@ String, number e boolean;
 depois que realiza essa operação, retorna o resultado;
 por exemplo: 3,2 = 9. 
 
+45- Utilizando uma função que recebe um número, e o decrementa de 1 em 1 com um loop for; 
+além disso, imprime somente os números pares no console.log(); 
+
+
 
 
 
