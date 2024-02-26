@@ -92,6 +92,8 @@ String, number e boolean;
 
 42- Utilizando uma função que recebe um número negativo e retorna um número positivo, utilizando a função Math.abs.
 
+43- Utilizando uma função que recebe uma string e se o texto conter mais de 10 caracteres através do console vai imprimir uma mensagem informando que o texto está muito longo, caso o contrário vai informar que o texto está dentro do limite.  
+
 
 
 
