@@ -105,6 +105,10 @@ além disso, imprime somente os números pares no console.log();
 
 47- Acessando posições de um array pelo seu índice. 
 
+48- Acessando verificando elementos utilizando o length.
+
+49- Verificando diferença entre metódo e propiedade. 
+
 
 
 
