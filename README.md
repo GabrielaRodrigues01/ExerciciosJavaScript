@@ -101,6 +101,11 @@ por exemplo: 3,2 = 9.
 45- Utilizando uma função que recebe um número, e o decrementa de 1 em 1 com um loop for; 
 além disso, imprime somente os números pares no console.log(); 
 
+46- Adicionando um conjunto de valores a uma variável.
+
+47- Acessando posições de um array pelo seu índice. 
+
+
 
 
 
