@@ -111,6 +111,12 @@ além disso, imprime somente os números pares no console.log();
 string.propiedade 
 string.metodo()
 
+50- Definindo um objeto. 
+
+51- Criando e deletando propiedades. 
+
+52- Verificando as chaves de um objeto. 
+
 
 
 
