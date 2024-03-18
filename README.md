@@ -117,6 +117,16 @@ string.metodo()
 
 52- Verificando as chaves de um objeto. 
 
+53- Herdando características de um objto (mutação);
+
+54- Utilizando o método pop para remover e retornar o último elemento de um array, e utilizando o método push para adicionar um elemento no final do array e retornar o novo comprimento. 
+
+55- Utilizando uma função que recebe como argumento "idade" e identifica três faixas etárias diferentes: criança, jovem e adulto. 
+
+56- Utilizando uma função que recebe como argumento "palavra" e verifica se a palavra é um palíndromo. Um palíndromo é uma palavra que é lida da mesma forma tanto da esquerda para a direita quanto da direita para a esquerda.  
+
+
+
 
 
 
