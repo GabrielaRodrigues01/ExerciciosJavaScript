@@ -125,6 +125,12 @@ string.metodo()
 
 56- Utilizando uma função que recebe como argumento "palavra" e verifica se a palavra é um palíndromo. Um palíndromo é uma palavra que é lida da mesma forma tanto da esquerda para a direita quanto da direita para a esquerda.  
 
+57- Utilizando uma função que recebe um array de números como argumento e calcula a média dos números no array. 
+
+58- Utilizando uma função que recebe uma string  como argumento e inverte a ordem dos caracteres. 
+
+59- Utilizando uma função que recebe uma string como argumento e retorna o total de vogais encontradas. 
+
 
 
 
