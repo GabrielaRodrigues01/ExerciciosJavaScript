@@ -137,6 +137,8 @@ string.metodo()
 
 62- Utilizando método de array: slice. 
 
+53- Utilizando forEach para iterar sobre um array de nomes e exibi-los no console.
+
 
 
 
