@@ -135,7 +135,7 @@ string.metodo()
 
 61- Utilizando método de array: shift e unshift. 
 
-61- Utilizando método de array: slice. 
+62- Utilizando método de array: slice. 
 
 
 
