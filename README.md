@@ -133,6 +133,11 @@ string.metodo()
 
 60- Utilizando uma função que recebe um array de números como argumento e retorna a soma de todos os números pares presentes no array.
 
+61- Utilizando método de array: shift e unshift. 
+
+61- Utilizando método de array: slice. 
+
+
 
 
 
