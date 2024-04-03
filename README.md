@@ -131,6 +131,8 @@ string.metodo()
 
 59- Utilizando uma função que recebe uma string como argumento e retorna o total de vogais encontradas. 
 
+60- Utilizando uma função que recebe um array de números como argumento e retorna a soma de todos os números pares presentes no array.
+
 
 
 
