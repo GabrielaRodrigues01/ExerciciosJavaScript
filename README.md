@@ -141,6 +141,9 @@ string.metodo()
 
 64- Utilizando método de array: includes. 
 
+65- Utilizando método de array: split. 
+
+
 
 
 
