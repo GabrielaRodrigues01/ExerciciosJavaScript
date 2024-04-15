@@ -147,6 +147,12 @@ string.metodo()
 
 67- Convertendo Json para string. 
 
+68- Criando um array que possui cinco itens e acessando os itens 1,3,4. Os arrays começam no índice 0. 
+
+69- Criando um array com dois elementos e outro com quatro, e imprimindo o número de elementos de cada um na tela. 
+
+
+
 
 
 
