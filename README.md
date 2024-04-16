@@ -151,6 +151,12 @@ string.metodo()
 
 69- Criando um array com dois elementos e outro com quatro, e imprimindo o número de elementos de cada um na tela. 
 
+70- Criando dois arrays, um com mais elementos e outro com menos e verificando através de uma função o número de elementos. 
+
+71- Verificando se um elemento existe dentro do array utilizando o método includes. 
+
+
+
 
 
 
