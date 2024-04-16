@@ -155,6 +155,8 @@ string.metodo()
 
 71- Verificando se um elemento existe dentro do array utilizando o método includes. 
 
+72- Criando um array a partir de uma frase e imprimindo cada palavra do array no console por meio de um for. 
+
 
 
 
