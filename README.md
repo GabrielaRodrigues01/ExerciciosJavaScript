@@ -157,6 +157,10 @@ string.metodo()
 
 72- Criando um array a partir de uma frase e imprimindo cada palavra do array no console por meio de um for. 
 
+73- Criando um objeto calculadora que tem os seguintes mmétodos: somar, subtrair, multipplicar e dividir. Os métodos devem aceitar dois parâmetros e cada um dos métodos deve imprimir os valores no console; 
+
+74- Preenchendo um array utilizando o método push. 
+
 
 
 
