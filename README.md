@@ -161,6 +161,11 @@ string.metodo()
 
 74- Preenchendo um array utilizando o método push. 
 
+75- Removendo elementos duplicados de um array.
+
+76- Somando números únicos. 
+
+
 
 
 
