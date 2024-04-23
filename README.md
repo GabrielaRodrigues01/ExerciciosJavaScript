@@ -1,4 +1,4 @@
-# ExerciciosJavaScript
+# ExercíciosJavaScript
 Este repositório possui uma coleção de exercícios realizados como parte do curso JavaScript do básico ao avançado (c/ Node.js) na plataforma Udemy, ministrado pelo professor Matheus Battisti.
 Os exercícios abrangem uma variedade de tópicos, desde conceitos básicos como tipos de dados, estruturas condicionais, métodos, propiedades, até funções e desafios mais avançados. 
 
